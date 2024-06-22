@@ -20,7 +20,7 @@ sections:
         label: myyyy
         url: /
         size: medium
-        variant: text
+        variant: outlined
         color: primary
     image:
       type: Image
